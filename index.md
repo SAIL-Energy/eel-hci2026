@@ -17,12 +17,10 @@ Participants will have the opportunity to engage in interactive sessions, share 
 Join us for a stimulating exchange of knowledge and perspectives at the Workshop on Empowering Energy Literacy: HCI Strategies for Accessible Data Engagement (EEL-HCI). Together, let's unravel the complexities and unlock the potential of energy data for a sustainable future.
 
 ## Important Dates
-|         | Date (AoE)         | 
-|:-------------|:------------------|
-| Publication of CfP on Workshop Website   | April 1st, 2024 |
-| Submission Deadline for Workshop Papers  | June 11th, 2024   |
-| Notifications           | July 9th, 2024      |
-| Camera-ready Deadline           | July 30th, 2024 |
-| Workshop | September 1st, 2024 |
+* Publication of CfP on Workshop Website: **April 1st, 2024**
+* Submission Deadline for Workshop Papers **June 11th, 2024**
+* Notifications: **July 9th, 2024**
+* Camera-ready Deadline: **July 30th, 2024**
+* Workshop: **September 1st, 2024**
 
 All deadlines are AoE.
