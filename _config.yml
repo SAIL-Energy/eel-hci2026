@@ -1,2 +1,5 @@
 title: EEL-HCI2024
 theme: jekyll-theme-cayman
+
+github:
+  is_project_page: false
