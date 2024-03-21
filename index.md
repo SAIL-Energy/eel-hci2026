@@ -24,3 +24,6 @@ Join us for a stimulating exchange of knowledge and perspectives at the Workshop
 * Workshop: **September 1st, 2024**
 
 All deadlines are AoE.
+
+## Organizers
+<img src="img/marc.png" width="500">
