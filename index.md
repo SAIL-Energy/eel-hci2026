@@ -26,9 +26,8 @@ Join us for a stimulating exchange of knowledge and perspectives at the Workshop
 All deadlines are AoE.
 
 ## Organizers
-<div style="float: left; margin-right 1em;">
-    <img src="img/marc.png" width="150">
-</div>
+
+<img src="img/marc.png" width="150">
 <span>
 
 **Marc Kurz** is a professor for mobile software systems within the Department for Smart and Interconnected Living (SAIL) at the University of Applied Sciences Upper Austria. His current research focus lies at the convergence of (mobile) HCI, artificial intelligence, and energy informatics. He was involved in the organizing committee of MuC'23 and is currently also serving as Co-Chair for the Student Research Competition at MuC'24. 
