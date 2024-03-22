@@ -27,15 +27,13 @@ All deadlines are AoE.
 
 ## Organizers
 
-<img style="float: left; margin-right 1em;" src="img/marc.png" width="150">
+<img style="float: left; margin-right 10em;" src="img/marc.png" width="150">
 
-<div style="margin-left 10em;">
-  
 **Marc Kurz** is a professor for mobile software systems within the Department for Smart and Interconnected Living (SAIL) at the University of Applied Sciences Upper Austria. His current research focus lies at the convergence of (mobile) HCI, artificial intelligence, and energy informatics. He was involved in the organizing committee of MuC'23 and is currently also serving as Co-Chair for the Student Research Competition at MuC'24. 
-</div>
+
 <br />
 
-<img src="img/oliver.jpeg" width="150">
+<img style="float: left; margin-right 10em;" src="img/oliver.jpeg" width="150">
 
 **Oliver Hödl** is a professor at the Department for Smart and Interconnected Living (SAIL) at the University of Applied Sciences Upper Austria. He is also affiliated with the University of Vienna as a lecturer and received his PhD in HCI from the Vienna University of Technology with highest distinction. Oliver acts as the project coordinator of the Horizon Europe project EDDIE - European Distributed Data Infrastructure for Energy.
 
