@@ -59,6 +59,6 @@ All deadlines are AoE.
 
 <img style="float: left; margin-right 10em;" src="img/shievam.jpg" width="150">
 
-**Shievam kashyap** works as a researcher at University of Applied Sciences Upper Austria. Additionally, he is a visiting lecturer for various Energy and IT-related courses. His focus of research includes Smart Grids, Electromobility, Microgrids, Energy sharing, Renewable energy sources etc.
+**Shievam Kashyap** works as a researcher at University of Applied Sciences Upper Austria. Additionally, he is a visiting lecturer for various Energy and IT-related courses. His focus of research includes Smart Grids, Electromobility, Microgrids, Energy sharing, Renewable energy sources etc.
 
 <br />
