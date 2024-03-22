@@ -38,3 +38,27 @@ All deadlines are AoE.
 **Oliver Hödl** is a professor at the Department for Smart and Interconnected Living (SAIL) at the University of Applied Sciences Upper Austria. He is also affiliated with the University of Vienna as a lecturer and received his PhD in HCI from the Vienna University of Technology with highest distinction. Oliver acts as the project coordinator of the Horizon Europe project EDDIE - European Distributed Data Infrastructure for Energy.
 
 <br />
+
+<img style="float: left; margin-right 10em;" src="img/georg.jpg" width="150">
+
+**Georg Hartner** is an Enterprise Architect working for Austrian and European institutions in the energy domain. He is a key contributor to programs to establish European energy service interoperability, member of EU DSO Entity's expert groups and member of the Development Team for the upcoming Network Code on Demand Response. Georg also acts as Technical Coordinator of Project EDDIE.
+
+<br />
+
+<img style="float: left; margin-right 10em;" src="img/christoph.jpeg" width="150">
+
+**Christoph Schaffer** serves as the head of the Department for Smart and Interconnected Living (SAIL) at the University of Applied Sciences Upper Austria. His research endeavors center around the integration of computer science and digitalization within the energy sector.
+
+<br />
+
+<img style="float: left; margin-right 10em;" src="img/stefan.jpg" width="150">
+
+**Stefan Grünberger** is a researcher at the University of Applied Sciences Upper Austria. He contributed to various research projects in the fields of NFC/RFID, autonomous driving, safety in industry 4.0 and currently smart energy data spaces. 
+
+<br />
+
+<img style="float: left; margin-right 10em;" src="img/shievam.jpg" width="150">
+
+**Shievam kashyap** works as a researcher at University of Applied Sciences Upper Austria. Additionally, he is a visiting lecturer for various Energy and IT-related courses. His focus of research includes Smart Grids, Electromobility, Microgrids, Energy sharing, Renewable energy sources etc.
+
+<br />
