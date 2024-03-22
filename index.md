@@ -53,8 +53,9 @@ All deadlines are AoE.
 
 <img style="float: left; margin-right 10em;" src="img/stefan_t.png" width="150">
 
-**Stefan Grünberger** is a researcher at the University of Applied Sciences Upper Austria. He contributed to various research projects in the fields of NFC/RFID, autonomous driving, safety in industry 4.0 and currently smart energy data spaces. 
+**Stefan Grünberger** is a researcher at the University of Applied Sciences Upper Austria. He contributed to various research projects in the fields of NFC/RFID, autonomous driving, safety in industry 4.0 and currently smart energy data spaces.
 
+<br />
 <br />
 
 <img style="float: left; margin-right 10em;" src="img/shievam_t.png" width="150">
