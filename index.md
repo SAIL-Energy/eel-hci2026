@@ -27,7 +27,7 @@ All deadlines are AoE.
 
 ## Organizers
 
-<div style="clear: both;">
+<div>
   <div style="float: left; margin-right 1em;">
     <img src="img/marc.png alt="" width="150">
   </div>
