@@ -15,7 +15,7 @@
 		#bannerimage {
 		  background-image: url("img/EDDIE_background4.jpg");
 		  height: 400px;
-		  width: 100%;
+		  max-width: 1920px;
 		  background-position: center;
 		}
     </style>
@@ -23,7 +23,8 @@
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <header class="page-header" role="banner">
+    <!--<header class="page-header" role="banner">-->
+    <header role="banner">
       <div id=bannerimage>
    <!--   <img class="logo" src="img/logos_small.png" alt="Eddie and FH logo" /><br/>-->
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
