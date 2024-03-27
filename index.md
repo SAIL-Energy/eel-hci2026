@@ -38,7 +38,7 @@ All deadlines are AoE.
 
 <img style="float: left; margin-right 10em;" src="img/oliver_t.png" width="150">
 
-**Oliver Hödl** is a professor at the Department for Smart and Interconnected Living (SAIL) at the University of Applied Sciences Upper Austria. He is also affiliated with the University of Vienna as a lecturer and received his PhD in HCI from the Vienna University of Technology with highest distinction. Oliver acts as the project coordinator of the Horizon Europe project EDDIE - European Distributed Data Infrastructure for Energy.
+**Oliver Hödl** is a professor at the Department for Smart and Interconnected Living (SAIL) at the University of Applied Sciences Upper Austria. He is also affiliated with the University of Vienna as a lecturer and received his PhD in HCI from the Vienna University of Technology. Oliver acts as the project coordinator of the Horizon Europe project EDDIE - European Distributed Data Infrastructure for Energy.
 
 <br />
 
