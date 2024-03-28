@@ -37,7 +37,7 @@ Papers can be submitted via <a href="https://www.conftool.com/muc2024" target="_
 
 <span id="program-venue" />
 ## Program & Venue
-The workshop will be held as part of the <a href="https://muc2024.mensch-und-computer.de/en/" target=_blank style="text-decoration:underline;">Mensch & Computer 2024 (MuC'24)</a> conference in Karlsruhe. 
+The workshop will be held as part of the <a href="https://muc2024.mensch-und-computer.de/en/" target=_blank style="text-decoration:underline;">Mensch & Computer 2024 (MuC'24)</a> conference in Karlsruhe, Germany. 
 
 Planned date for the workshop is September 1st, 2024. 
 
