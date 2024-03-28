@@ -44,6 +44,11 @@ The workshop will be held as part of the <a href="https://muc2024.mensch-und-com
 | 09:00 - 09:15  | Welcome and Opening    |
 | 09:15 - 10:30 | Paper Presentation Session 1     |
 | 10:30 - 10:45    | Coffee Break    |
+| 10:45 - 12:00    | Paper Presentation Session 2    |
+| 12:00 - 13:00    | Lunch Break    |
+| 13:00 - 15:30    | World Cafe Discussions    |
+| 15:30 - 16:00    | Coffee Break    |
+| 16:00 - 17:00    | Open Discussion, Wrap-Up & Closing    |
 
 <span id="team"/>
 ## Organizers
