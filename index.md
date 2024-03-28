@@ -27,6 +27,10 @@ Join us for a stimulating exchange of knowledge and perspectives at the Workshop
 
 All deadlines are AoE.
 
+<span id="submission" />
+## Submission
+We invite submissions of research papers, position papers and work-in-progress papers from authors with diverse backgrounds. Authors can submit papers up to 6 pages long, also position or work-in-progress papers up to 2 pages are welcomed. All submissions will be peer-reviewed by two independent reviewers. For submissions, please follow the guidelines as given by the Mensch & Computer 2024 (MuC'24) <a href="https://muc2024.mensch-und-computer.de/de/call-for-papers/hci/short-paper/" target="_blank">Short Paper Guidelines</a>. Papers can be submitted via <a href="https://www.conftool.com/muc2024" target="_blank">ConfTool</a> (please select "MCI-WS110: EEL-HCI 2024: First International Workshop on Empowering Energy Literacy - HCI Strategies for Accessible Data Engagement").
+
 <span id="team"/>
 ## Organizers
 
