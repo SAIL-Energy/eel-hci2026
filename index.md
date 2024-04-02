@@ -96,3 +96,5 @@ The workshop will be held according to the following preliminary agenda:
 <span id="contact"/>
 ## Contact Information
 Feel free to contact the organizing team: <a href="mailto:eel-hci2024@eddie.energy" style="text-decoration:underline;">eel-hci2024@eddie.energy</a>
+
+[Imprint](imprint.md)
