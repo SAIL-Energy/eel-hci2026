@@ -78,22 +78,20 @@ The workshop will be held according to the following preliminary agenda:
 <img style="float: left; margin-right 10em;" src="img/christoph_t.png" width="150">
 
 **Christoph Schaffer** serves as the head of the Department for Smart and Interconnected Living (SAIL) at the University of Applied Sciences Upper Austria. His research endeavors center around the integration of computer science and digitalization within the energy sector.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br />
 
-<p><img style="float: left; margin-right 10em;" src="img/stefan_t.png" width="150">
+<img style="float: left; margin-right 10em;" src="img/stefan_t.png" width="150">
 
 **Stefan Grünberger** is a researcher at the University of Applied Sciences Upper Austria. He contributed to various research projects in the fields of NFC/RFID, autonomous driving, safety in industry 4.0 and currently smart energy data spaces.
 
-<br /></p>
+<br />
 
-<p>
 <img style="float: left; margin-right 10em;" src="img/shievam_t.png" width="150">
 
 **Shievam Kashyap** works as a researcher at University of Applied Sciences Upper Austria. Additionally, he is a visiting lecturer for various Energy and IT-related courses. His focus of research includes Smart Grids, Electromobility, Microgrids, Energy sharing, Renewable energy sources etc.
 
-<br /></p>
+<br />
 
 <span id="contact"/>
 ## Contact Information
