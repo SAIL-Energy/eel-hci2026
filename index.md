@@ -71,13 +71,14 @@ The workshop will be held according to the following preliminary agenda:
 
 <img style="float: left; margin-right 10em;" src="img/georg_t.png" width="150">
 
-**Georg Hartner** is an Enterprise Architect working for Austrian and European institutions in the energy domain. He is a key contributor to programs to establish European energy service interoperability, member of EU DSO Entity's expert groups and member of the Development Team for the upcoming Network Code on Demand Response. He also acts as Technical Coordinator of Project EDDIE.
+**Georg Hartner** is an Enterprise Architect working for Austrian and European institutions in the energy domain. He is a key contributor to programs to establish European energy service interoperability, member of EU DSO Entity's expert groups and member of the Development Team for the upcoming Network Code on Demand Response. Georg also acts as Technical Coordinator of Project EDDIE.
 
 <br />
 
 <img style="float: left; margin-right 10em;" src="img/christoph_t.png" width="150">
 
 **Christoph Schaffer** serves as the head of the Department for Smart and Interconnected Living (SAIL) at the University of Applied Sciences Upper Austria. His research endeavors center around the integration of computer science and digitalization within the energy sector.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br />
 
