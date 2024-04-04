@@ -15,6 +15,7 @@
     <style>
 		.bannerimage {
 		  background-image: url("img/EDDIE_background4.jpg");
+		  background-size: cover;
 		  background-position: center;
 		  color: #fff;
   		  text-align: center;
@@ -24,8 +25,8 @@
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <header class="page-header" role="banner">
-   <!-- <header class="bannerimage center"> -->
+<!--    <header class="page-header" role="banner">-->
+    <header class="bannerimage center">
    <!--   <img class="logo" src="img/logos_small.png" alt="Eddie and FH logo" /><br/>-->
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
