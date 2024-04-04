@@ -82,11 +82,11 @@ The workshop will be held according to the following preliminary agenda:
 
 <br />
 
-<img style="float: left; margin-right 10em;" src="img/stefan_t.png" width="150">
+<p><img style="float: left; margin-right 10em;" src="img/stefan_t.png" width="150">
 
 **Stefan Grünberger** is a researcher at the University of Applied Sciences Upper Austria. He contributed to various research projects in the fields of NFC/RFID, autonomous driving, safety in industry 4.0 and currently smart energy data spaces.
 
-<br />
+<br /></p>
 
 <img style="float: left; margin-right 10em;" src="img/shievam_t.png" width="150">
 
