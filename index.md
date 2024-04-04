@@ -71,7 +71,7 @@ The workshop will be held according to the following preliminary agenda:
 
 <img style="float: left; margin-right 10em;" src="img/georg_t.png" width="150">
 
-**Georg Hartner** is an Enterprise Architect working for Austrian and European institutions in the energy domain. He is a key contributor to programs to establish European energy service interoperability, member of EU DSO Entity's expert groups and member of the Development Team for the upcoming Network Code on Demand Response. Georg also acts as Technical Coordinator of Project EDDIE.
+**Georg Hartner** is an Enterprise Architect working for Austrian and European institutions in the energy domain. He is a key contributor to programs to establish European energy service interoperability, member of EU DSO Entity's expert groups and member of the Development Team for the upcoming Network Code on Demand Response. Georg also acts as Technical Coordinator of EDDIE.
 
 <br />
 
