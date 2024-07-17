@@ -21,7 +21,7 @@ Join us for a stimulating exchange of knowledge and perspectives at the Workshop
 ## Important Dates
 * Publication of CfP on Workshop Website: **April 1st, 2024**
 * Submission Deadline for Workshop Papers: ~~June 11th, 2024~~ **June 18th, 2024**
-* Notifications: **July 9th, 2024**
+* Notifications: ~~July 9th, 2024~~ **July 19th, 2024**
 * Camera-ready Deadline: **July 30th, 2024**
 * Workshop: **September 1st, 2024**
 
