@@ -15,7 +15,7 @@ Our workshop aims to foster discussions and collaborations on a wide range of to
 
 Participants will have the opportunity to engage in interactive sessions, share their research findings, exchange ideas, and contribute to shaping the future of explainable energy data. Whether you are a data scientist, policy analyst, energy industry professional, or academic researcher, your insights and expertise are valuable in advancing our collective understanding of this critical domain.
 
-Join us for a stimulating exchange of knowledge and perspectives at the Workshop on Empowering Energy Literacy: HCI Strategies for Accessible Data Engagement (EEL-HCI). Together, let's unravel the complexities and unlock the potential of energy data for a sustainable future.
+Join us for a stimulating exchange of knowledge and perspectives at the Workshop on **Empowering Energy Literacy: HCI Strategies for Accessible Data Engagement (EEL-HCI)**. Together, let's unravel the complexities and unlock the potential of energy data for a sustainable future.
 
 <span id="deadlines"/>
 ## Important Dates
