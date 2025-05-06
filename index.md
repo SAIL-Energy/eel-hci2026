@@ -33,7 +33,7 @@ We invite submissions of research papers, position papers and work-in-progress p
 
 For submissions, please follow the guidelines as given by the Mensch & Computer 2025 (MuC'25): <a href="https://muc2025.mensch-und-computer.de/de/call-for-papers/hci/short-paper/" target="_blank" style="text-decoration:underline;">Short Paper Guidelines</a>. 
 
-Papers can be submitted via <a href="https://www.conftool.com/muc2025" target="_blank" style="text-decoration:underline;">ConfTool</a> (please select "MCI-WS03: EEL-HCI 2025: Second International Workshop on Empowering Energy Literacy - HCI Strategies for Accessible Data Engagement").
+Papers can be submitted via <a href="https://www.conftool.pro/muc2025" target="_blank" style="text-decoration:underline;">ConfTool</a> (please select "MCI-WS03: EEL-HCI 2025: Second International Workshop on Empowering Energy Literacy - HCI Strategies for Accessible Data Engagement").
 
 <span id="program-venue" />
 ## Program & Venue
