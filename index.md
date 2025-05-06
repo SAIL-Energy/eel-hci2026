@@ -31,15 +31,15 @@ All deadlines are AoE.
 ## Submission
 We invite submissions of research papers, position papers and work-in-progress papers from authors with diverse backgrounds. Authors can submit papers up to 6 pages long, also position or work-in-progress papers up to 2 pages are welcomed. All submissions will be peer-reviewed by two independent reviewers. 
 
-For submissions, please follow the guidelines as given by the Mensch & Computer 2025 (MuC'25): <a href="https://muc2024.mensch-und-computer.de/de/call-for-papers/hci/short-paper/" target="_blank" style="text-decoration:underline;">Short Paper Guidelines</a>. 
+For submissions, please follow the guidelines as given by the Mensch & Computer 2025 (MuC'25): <a href="https://muc2025.mensch-und-computer.de/de/call-for-papers/hci/short-paper/" target="_blank" style="text-decoration:underline;">Short Paper Guidelines</a>. 
 
-Papers can be submitted via <a href="https://www.conftool.com/muc2024" target="_blank" style="text-decoration:underline;">ConfTool</a> (please select "MCI-WS110: EEL-HCI 2024: First International Workshop on Empowering Energy Literacy - HCI Strategies for Accessible Data Engagement").
+Papers can be submitted via <a href="https://www.conftool.com/muc2025" target="_blank" style="text-decoration:underline;">ConfTool</a> (please select "MCI-WS03: EEL-HCI 2025: Second International Workshop on Empowering Energy Literacy - HCI Strategies for Accessible Data Engagement").
 
 <span id="program-venue" />
 ## Program & Venue
-The workshop will be held as part of the <a href="https://muc2024.mensch-und-computer.de/en/" target=_blank style="text-decoration:underline;">Mensch & Computer 2024 (MuC'24)</a> conference in Karlsruhe, Germany. 
+The workshop will be held as part of the <a href="https://muc2025.mensch-und-computer.de/en/" target=_blank style="text-decoration:underline;">Mensch & Computer 2025 (MuC'25)</a> conference in Chemnitz, Germany. 
 
-Planned date for the workshop is September 1st, 2024. 
+Planned date for the workshop is August 31st, 2025. 
 
 The workshop will be held according to the following preliminary agenda: 
 
@@ -95,7 +95,7 @@ The workshop will be held according to the following preliminary agenda:
 
 <span id="contact"/>
 ## Contact Information
-Feel free to contact the organizing team: <a href="mailto:eel-hci2024@eddie.energy" style="text-decoration:underline;">eel-hci2024@eddie.energy</a>
+Feel free to contact the organizing team: <a href="mailto:eel-hci2025@eddie.energy" style="text-decoration:underline;">eel-hci2025@eddie.energy</a>
 
 <span class="w3-small">
 [Imprint](imprint.md)
