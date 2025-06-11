@@ -20,7 +20,7 @@ Join us for a stimulating exchange of knowledge and perspectives at the Workshop
 <span id="deadlines"/>
 ## Important Dates
 * Publication of CfP on Workshop Website: **May 1st, 2025**
-* Submission Deadline for Workshop Papers: **June 10th, 2025**
+* Submission Deadline for Workshop Papers: ~~**June 10th, 2025**~~ **June 20th, 2025**
 * Notifications: **July 8th, 2025**
 * Camera-ready Deadline: **July 29th, 2025**
 * Workshop: **August 31st, 2025**
