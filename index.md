@@ -45,14 +45,12 @@ The workshop will be held according to the following preliminary agenda:
 
 | Time    | Topic |
 | -------- | ------- |
-| 09:00 - 09:15  | Welcome and Opening    |
-| 09:15 - 10:30 | Paper Presentation Session 1     |
-| 10:30 - 10:45    | Coffee Break    |
-| 10:45 - 12:00    | Paper Presentation Session 2    |
-| 12:00 - 13:00    | Lunch Break    |
-| 13:00 - 15:30    | World Cafe Discussions    |
-| 15:30 - 16:00    | Coffee Break    |
-| 16:00 - 17:00    | Open Discussion, Wrap-Up & Closing    |
+| 14:00 - 14:15  | Welcome and Opening    |
+| 14:15 - 14:45 | Workshop Motivation, Overview Projects EDDIE and INSIEME     |
+| 14:45 - 15:15    | Paper Presentation: A Unified User Interface Using Microfrontends for Energy Data Sharing Infrastructure    |
+| 15:15 - 15:45    | Paper Presentation: A Field Study on the User Experience of Residential Energy Data Access through SMart Meters    |
+| 15:45 - 16:15    | Paper Presentation: Exploring Information Designs for Price Transparency in Energy Tariffs    |
+| 16:15 - open End    | Open Discussion, Wrap-Up & Closing    |
 
 <span id="team"/>
 ## Organizers
