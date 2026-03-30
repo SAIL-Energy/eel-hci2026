@@ -1,99 +1,76 @@
-# Second International Workshop on Empowering Energy Literacy - HCI Strategies for Accessible Data Engagement (EEL-HCI2025)
+# Third International Workshop on Empowering Energy Literacy - HCI Strategies for Accessible Data Engagement (EEL-HCI2026)
 
 <span id="cfp"/>
 ## Call for Participation
-We invite researchers, practitioners, and experts from diverse disciplines to participate the workshop on Empowering Energy Literacy: HCI Strategies for Accessible Data Engagement (EEL-HCI). In an increasingly complex energy landscape, understanding and interpreting energy data have become paramount for effective decision-making, policy formulation, and technological advancements. This workshop seeks to explore the interdisciplinary dimensions of explainable energy data, encompassing technical, regulatory, societal, political, and security aspects.
+We invite researchers, practitioners, and experts from diverse disciplines to participate in the workshop on Empowering Energy Literacy: HCI Strategies for Accessible Data Engagement (EEL-HCI) at Mensch und Computer 2026 in Duisburg. In an increasingly complex energy landscape, understanding and interpreting energy data have become paramount for effective decision-making, policy formulation, and technological advancements. This workshop explores the interdisciplinary dimensions of explainable energy data, encompassing technical, regulatory, societal, political, and security aspects.
 
-Our workshop aims to foster discussions and collaborations on a wide range of topics, including but not limited to:
+Topics include but are not limited to:
 * Best practices in collecting, processing, and analyzing energy data
 * Legal and ethical considerations surrounding the use and sharing of energy data
-* Uncovering the complexities behind energy market models and pricing mechanisms
-* Exploring user and domain-specific challenges in understanding energy consumption patterns
-* Addressing the need for transparency and accountability in energy data interpretation
-* Investigating the role of explainable energy data in shaping energy policies and regulations
-* Assessing the security implications of data-driven energy systems
+* Complexities behind energy market models and pricing mechanisms
+* User and domain-specific challenges in understanding energy consumption patterns
+* Transparency and accountability in energy data interpretation
+* The role of explainable energy data in shaping energy policies and regulations
+* Security implications of data-driven energy systems
 
-Participants will have the opportunity to engage in interactive sessions, share their research findings, exchange ideas, and contribute to shaping the future of explainable energy data. Whether you are a data scientist, policy analyst, energy industry professional, or academic researcher, your insights and expertise are valuable in advancing our collective understanding of this critical domain.
-
-Join us for a stimulating exchange of knowledge and perspectives at the Workshop on **Empowering Energy Literacy: HCI Strategies for Accessible Data Engagement (EEL-HCI)**. Together, let's unravel the complexities and unlock the potential of energy data for a sustainable future.
+Participants will engage in interactive sessions, share research findings, and contribute to shaping the future of explainable energy data. Join us for a stimulating exchange of knowledge and perspectives. Together, let's unlock the potential of energy data for a sustainable future.
 
 <span id="deadlines"/>
 ## Important Dates
-* Publication of CfP on Workshop Website: **May 1st, 2025**
-* Submission Deadline for Workshop Papers: ~~**June 10th, 2025**~~ **June 20th, 2025**
-* Notifications: **July 8th, 2025**
-* Camera-ready Deadline: **July 29th, 2025**
-* Workshop: **August 31st, 2025**
+* Publication of CfP on Workshop Website: **April 1st, 2026**
+* Submission Deadline for Workshop Papers: **June 3rd, 2026**
+* Notifications: **July 1st, 2026**
+* Camera-ready Deadline: **July 22nd, 2026** (ultimate deadline for inclusion in proceedings)
+* Workshop: **August 30th, 2026** (Sunday afternoon)
 
 All deadlines are AoE.
 
 <span id="submission" />
 ## Submission
-We invite submissions of research papers, position papers and work-in-progress papers from authors with diverse backgrounds. Authors can submit papers up to 6 pages long, also position or work-in-progress papers up to 2 pages are welcomed. All submissions will be peer-reviewed by two independent reviewers. 
-
-For submissions, please follow the guidelines as given by the Mensch & Computer 2025 (MuC'25): <a href="https://muc2025.mensch-und-computer.de/de/call-for-papers/hci/short-paper/" target="_blank" style="text-decoration:underline;">Short Paper Guidelines</a>. 
-
-Papers can be submitted via <a href="https://www.conftool.pro/muc2025" target="_blank" style="text-decoration:underline;">ConfTool</a> (please select "MCI-WS03: EEL-HCI 2025: Second International Workshop on Empowering Energy Literacy - HCI Strategies for Accessible Data Engagement").
+We invite submissions of position papers from authors with diverse backgrounds. All submissions must be anonymized and follow the <a href="https://sigchi.org/resources/guides-for-authors/accessibility" target="_blank" style="text-decoration:underline;">SIGCHI Accessibility Guide for Authors</a>. All submissions will be reviewed by two independent reviewers (double blind review).
 
 <span id="program-venue" />
 ## Program & Venue
-The workshop will be held as part of the <a href="https://muc2025.mensch-und-computer.de/en/" target=_blank style="text-decoration:underline;">Mensch & Computer 2025 (MuC'25)</a> conference in Chemnitz, Germany. 
+The workshop will be held as part of the Mensch & Computer 2026 (MuC'26) conference in Duisburg, Germany.
 
-Planned date for the workshop is August 31st, 2025. 
+Planned date for the workshop is August 30th, 2026 (Sunday afternoon).
 
-The workshop will be held according to the following preliminary agenda: 
+We aim for a half-day workshop (approximately 180 minutes) with the following planned format:
 
 | Time    | Topic |
 | -------- | ------- |
-| 14:00 - 14:15  | Welcome and Opening    |
-| 14:15 - 14:45 | Workshop Motivation, Overview Projects EDDIE and INSIEME     |
-| 14:45 - 15:15    | Paper Presentation: A Unified User Interface Using Microfrontends for Energy Data Sharing Infrastructure    |
-| 15:15 - 15:45    | Paper Presentation: A Field Study on the User Experience of Residential Energy Data Access through SMart Meters    |
-| 15:45 - 16:15    | Paper Presentation: Exploring Information Designs for Price Transparency in Energy Tariffs    |
-| 16:15 - open End    | Open Discussion, Wrap-Up & Closing    |
+| tbd  | Welcome and Introduction (15 min)    |
+| tbd | Position Paper Presentations with Q&A (75 min)     |
+| tbd    | Break (15 min)    |
+| tbd    | Interactive Group Discussion and Clustering of Positions (45 min)    |
+| tbd    | Conclusion, Synthesis of Findings, and Next Steps (30 min)    |
 
 <span id="team"/>
 ## Organizers
 
 <img style="float: left; margin-right 10em;" src="img/marc_t.png" width="150">
 
-**Marc Kurz** is a professor for mobile software systems within the Department for Smart and Interconnected Living (SAIL) at the University of Applied Sciences Upper Austria. His current research focus lies at the convergence of (mobile) HCI, artificial intelligence, and energy informatics. He was involved in the organizing committee of MuC'23 and is currently also serving as Co-Chair for the Student Research Competition at MuC'24. 
+**Marc Kurz** is a professor of mobile software systems at the University of Applied Sciences Upper Austria. His research focuses on the intersection of (mobile) HCI, artificial intelligence, and energy informatics. He was part of the organizing committee of MuC'23 and MuC'24 and co-organized the first two editions of the EEL-HCI workshop.
 
 <br />
 
 <img style="float: left; margin-right 10em;" src="img/oliver_t.png" width="150">
 
-**Oliver Hödl** is a professor at the Department for Smart and Interconnected Living (SAIL) at the University of Applied Sciences Upper Austria. He is also affiliated with the University of Vienna as a lecturer and received his PhD in HCI from the Vienna University of Technology. Oliver acts as the project coordinator of the Horizon Europe project EDDIE - European Distributed Data Infrastructure for Energy.
+**Oliver Hödl** is a professor at the University of Applied Sciences Upper Austria and affiliated with the University of Vienna. His research combines human-centered and data-driven approaches with applications in energy and beyond. He coordinates the Horizon Europe project EDDIE and the Digital Europe project INSIEME.
 
 <br />
 
-<img style="float: left; margin-right 10em;" src="img/georg_t.png" width="150">
-
-**Georg Hartner** is an Enterprise Architect working for Austrian and European institutions in the energy domain. He is a key contributor to programs to establish European energy service interoperability, member of EU DSO Entity's expert groups and member of the Development Team for the upcoming Network Code on Demand Response. Georg also acts as Technical Coordinator of project EDDIE.
+**Florian Michahelles** is a professor of ubiquitous computing at TU Wien. His research focuses on human-machine interaction and energy literacy. He has been a general chair of MUM2023 and IoT2025 and is an associate editor in chief of IEEE Pervasive Magazine.
 
 <br />
 
-<img style="float: left; margin-right 10em;" src="img/christoph_t.png" width="150">
-
-**Christoph Schaffer** serves as the head of the Department for Smart and Interconnected Living (SAIL) at the University of Applied Sciences Upper Austria. His research endeavors center around the integration of computer science and digitalization within the energy sector.
-
-<br />
-
-<img style="float: left; margin-right 10em;" src="img/stefan_t.png" width="150">
-
-**Stefan Grünberger** is a researcher at the University of Applied Sciences Upper Austria. He contributed to various research projects in the fields of NFC/RFID, autonomous driving, safety in industry 4.0 and currently smart energy data spaces.
-
-<br />
-
-<img style="float: left; margin-right 10em;" src="img/shievam_t.png" width="150">
-
-**Shievam Kashyap** works as a researcher at University of Applied Sciences Upper Austria. Additionally, he is a visiting lecturer for various Energy and IT-related courses. His focus of research includes Smart Grids, Electromobility, Microgrids, Energy sharing, Renewable energy sources etc.
+**Mary Alejandra Luiz Barreto** is an Assistant Professor at the University of Madeira. She focuses on how interactive systems can translate complex energy data into meaningful insights that encourage reflection and behavior change, combining user-centered design with empirical field studies.
 
 <br />
 
 <span id="contact"/>
 ## Contact Information
-Feel free to contact the organizing team: <a href="mailto:eel-hci2025@eddie.energy" style="text-decoration:underline;">eel-hci2025@eddie.energy</a>
+Feel free to contact the organizing team: <a href="mailto:eel-hci2026@eddie.energy" style="text-decoration:underline;">eel-hci2026@eddie.energy</a>
 
 <span class="w3-small">
 [Imprint](imprint.md)
