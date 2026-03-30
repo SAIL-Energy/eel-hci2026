@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Imprint
 <p>
 FH-Prof. DI Dr. Marc Kurz<br/>

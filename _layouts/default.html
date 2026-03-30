@@ -69,21 +69,21 @@
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         {% endif %}
 
-        <div>
-            <div class="w3-third w3-container">
-                <div id="eddie_logo"><a href="https://eddie.energy" title="EDDIE.energy" target="_blank"><img src="img/EDDIE_logo_4C_RGB_main.png" width="150" alt=""></a></div><br />
-		<div id="insieme_logo"><a href="https://insieme.energy" title="INSIEME.energy" target="_blank"><img src="img/insieme-logo_with_border_x180.png" width="180" alt=""></a></div>
+        <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; margin-bottom: 2em;">
+            <div style="display: flex; align-items: center; gap: 1.5em;">
+                <a href="https://eddie.energy" title="EDDIE.energy" target="_blank"><img src="img/EDDIE_logo_4C_RGB_main.png" height="55" alt="EDDIE"></a>
+                <a href="https://insieme.energy" title="INSIEME.energy" target="_blank"><img src="img/insieme-logo_with_border_x180.png" height="55" alt="INSIEME"></a>
             </div>
+            <div style="display: flex; align-items: center; gap: 1.5em;">
+                <a href="https://fh-ooe.at" title="FH Upper Austria" target="_blank"><img src="img/fhooe_logo.png" height="45" alt="FH Upper Austria"></a>
+                <a href="https://www.tuwien.at" title="TU Wien" target="_blank"><img src="img/tuwien_logo.svg" height="40" alt="TU Wien"></a>
+                <a href="https://www.uma.pt" title="University of Madeira" target="_blank"><img src="img/uma_logo.png" height="40" alt="University of Madeira"></a>
+            </div>
+        </div>
 
-            <div class="w3-third w3-container">
-                <div id="fh_logo"><a href="https://fh-ooe.at" title="FH OOe"><img src="img/fhooe_logo.png" height="54" alt=""></a></div>
-            </div>
-            <div class="w3-third w3-container">
-                <img src="img/eu-logo.png" height="54" alt="">
-              <div class="w3-rest w3-tiny">
-                  <p>The projects have received co-funding by the European Union’s Horizon Europe Innovation Actions under grant agreement No. 101069510 (EDDIE) and by the European Union’s Digital Europe Programme under grant agreement No. 101194952 (INSIEME).</p>
-              </div>
-            </div>
+        <div style="display: flex; align-items: center; gap: 1em;">
+            <img src="img/eu-logo.png" height="48" alt="EU" style="flex-shrink: 0;">
+            <p style="font-size: 0.7em; margin: 0;">The projects have received co-funding by the European Union’s Horizon Europe Innovation Actions under grant agreement No. 101069510 (EDDIE) and by the European Union’s Digital Europe Programme under grant agreement No. 101194952 (INSIEME).</p>
         </div>
       </footer>
     </main>

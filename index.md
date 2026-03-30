@@ -1,8 +1,19 @@
+---
+layout: default
+---
+
 # Third International Workshop on Empowering Energy Literacy - HCI Strategies for Accessible Data Engagement (EEL-HCI2026)
 
 <span id="cfp"/>
 ## Call for Participation
-We invite researchers, practitioners, and experts from diverse disciplines to participate in the workshop on Empowering Energy Literacy: HCI Strategies for Accessible Data Engagement (EEL-HCI) at Mensch und Computer 2026 in Duisburg. In an increasingly complex energy landscape, understanding and interpreting energy data have become paramount for effective decision-making, policy formulation, and technological advancements. This workshop explores the interdisciplinary dimensions of explainable energy data, encompassing technical, regulatory, societal, political, and security aspects.
+
+In today's dynamic energy transition, effective management and comprehension of energy-related information transcend conventional data analysis, which concerns all stakeholders involved from network operators to citizens. This workshop explores multifaceted energy transparency, integrating best practices, legal considerations, and HCI principles to empower informed action and drive sustainability.
+
+We invite researchers, practitioners, and experts from diverse disciplines to participate in the workshop on **Empowering Energy Literacy: HCI Strategies for Accessible Data Engagement (EEL-HCI)** at <a href="https://muc2026.mensch-und-computer.de/en/" target="_blank" style="text-decoration:underline;">Mensch und Computer 2026</a> in Duisburg, Germany.
+
+Through presentations of position papers, we aim to collect multidisciplinary needs, challenges, requirements, and best practices which will be discussed to conclude on HCI strategies to navigate energy dynamics effectively, unlocking transformative potential for sustainability.
+
+### Topics
 
 Topics include but are not limited to:
 * Best practices in collecting, processing, and analyzing energy data
@@ -31,7 +42,7 @@ We invite submissions of position papers from authors with diverse backgrounds. 
 
 <span id="program-venue" />
 ## Program & Venue
-The workshop will be held as part of the Mensch & Computer 2026 (MuC'26) conference in Duisburg, Germany.
+The workshop will be held as part of the <a href="https://muc2026.mensch-und-computer.de/en/" target="_blank" style="text-decoration:underline;">Mensch & Computer 2026 (MuC'26)</a> conference in Duisburg, Germany.
 
 Planned date for the workshop is August 30th, 2026 (Sunday afternoon).
 
@@ -48,30 +59,30 @@ We aim for a half-day workshop (approximately 180 minutes) with the following pl
 <span id="team"/>
 ## Organizers
 
-<img style="float: left; margin-right 10em;" src="img/marc_t.png" width="150">
+<div style="overflow: hidden; margin-bottom: 1.5em;">
+<img style="float: left; margin-right: 1em;" src="img/marc_t.png" width="150">
+<b>Marc Kurz</b> is a professor of mobile software systems at the University of Applied Sciences Upper Austria. His research focuses on the intersection of (mobile) HCI, artificial intelligence, and energy informatics. He was part of the organizing committee of MuC'23 and MuC'24 and co-organized the first two editions of the EEL-HCI workshop.
+</div>
 
-**Marc Kurz** is a professor of mobile software systems at the University of Applied Sciences Upper Austria. His research focuses on the intersection of (mobile) HCI, artificial intelligence, and energy informatics. He was part of the organizing committee of MuC'23 and MuC'24 and co-organized the first two editions of the EEL-HCI workshop.
+<div style="overflow: hidden; margin-bottom: 1.5em;">
+<img style="float: left; margin-right: 1em;" src="img/oliver_t.png" width="150">
+<b>Oliver Hödl</b> is a professor at the University of Applied Sciences Upper Austria and affiliated with the University of Vienna. His research combines human-centered and data-driven approaches with applications in energy and beyond. He coordinates the Horizon Europe project EDDIE and the Digital Europe project INSIEME.
+</div>
 
-<br />
+<div style="overflow: hidden; margin-bottom: 1.5em;">
+<img style="float: left; margin-right: 1em;" src="img/florian_t.png" width="150">
+<b>Florian Michahelles</b> is a professor of ubiquitous computing at TU Wien. His research focuses on human-machine interaction and energy literacy. He has been a general chair of MUM2023 and IoT2025 and is an associate editor in chief of IEEE Pervasive Magazine.
+</div>
 
-<img style="float: left; margin-right 10em;" src="img/oliver_t.png" width="150">
-
-**Oliver Hödl** is a professor at the University of Applied Sciences Upper Austria and affiliated with the University of Vienna. His research combines human-centered and data-driven approaches with applications in energy and beyond. He coordinates the Horizon Europe project EDDIE and the Digital Europe project INSIEME.
-
-<br />
-
-**Florian Michahelles** is a professor of ubiquitous computing at TU Wien. His research focuses on human-machine interaction and energy literacy. He has been a general chair of MUM2023 and IoT2025 and is an associate editor in chief of IEEE Pervasive Magazine.
-
-<br />
-
-**Mary Alejandra Luiz Barreto** is an Assistant Professor at the University of Madeira. She focuses on how interactive systems can translate complex energy data into meaningful insights that encourage reflection and behavior change, combining user-centered design with empirical field studies.
-
-<br />
+<div style="overflow: hidden; margin-bottom: 1.5em;">
+<img style="float: left; margin-right: 1em;" src="img/mary_t.jpg" width="150">
+<b>Mary Alejandra Luiz Barreto</b> is an Assistant Professor at the University of Madeira. She focuses on how interactive systems can translate complex energy data into meaningful insights that encourage reflection and behavior change, combining user-centered design with empirical field studies.
+</div>
 
 <span id="contact"/>
 ## Contact Information
 Feel free to contact the organizing team: <a href="mailto:eel-hci2026@eddie.energy" style="text-decoration:underline;">eel-hci2026@eddie.energy</a>
 
 <span class="w3-small">
-[Imprint](imprint.md)
+[Imprint](imprint.html)
 </span>
