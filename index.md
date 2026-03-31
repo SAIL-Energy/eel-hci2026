@@ -65,7 +65,7 @@ We aim for a half-day workshop (approximately 180 minutes) with the following pl
 </div>
 
 <div style="overflow: hidden; margin-bottom: 1.5em;">
-<img style="float: left; margin-right: 1em;" src="img/oliver_t.png" width="150">
+<img style="float: left; margin-right: 1em;" src="img/oliver_t.jpg" width="150">
 <b>Oliver Hödl</b> is a professor at the University of Applied Sciences Upper Austria and affiliated with the University of Vienna. His research combines human-centered and data-driven approaches with applications in energy and beyond. He coordinates the Horizon Europe project EDDIE and the Digital Europe project INSIEME.
 </div>
 
