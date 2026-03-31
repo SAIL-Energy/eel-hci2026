@@ -9,7 +9,7 @@ layout: default
 
 In today's dynamic energy transition, effective management and comprehension of energy-related information transcend conventional data analysis, which concerns all stakeholders involved from network operators to citizens. This workshop explores multifaceted energy transparency, integrating best practices, legal considerations, and HCI principles to empower informed action and drive sustainability.
 
-We invite researchers, practitioners, and experts from diverse disciplines to participate in the workshop on **Empowering Energy Literacy: HCI Strategies for Accessible Data Engagement (EEL-HCI)** at <a href="https://muc2026.mensch-und-computer.de/en/" target="_blank" style="text-decoration:underline;">Mensch und Computer 2026</a> in Duisburg, Germany.
+We invite researchers, practitioners, and experts from diverse disciplines to participate in the workshop on **Empowering Energy Literacy: HCI Strategies for Accessible Data Engagement (EEL-HCI)** at <a href="https://muc2026.mensch-und-computer.de" target="_blank" style="text-decoration:underline;">Mensch und Computer 2026</a> in Duisburg, Germany.
 
 Through presentations of position papers, we aim to collect multidisciplinary needs, challenges, requirements, and best practices which will be discussed to conclude on HCI strategies to navigate energy dynamics effectively, unlocking transformative potential for sustainability.
 
@@ -42,7 +42,7 @@ We invite submissions of position papers from authors with diverse backgrounds. 
 
 <span id="program-venue" />
 ## Program & Venue
-The workshop will be held as part of the <a href="https://muc2026.mensch-und-computer.de/en/" target="_blank" style="text-decoration:underline;">Mensch & Computer 2026 (MuC'26)</a> conference in Duisburg, Germany.
+The workshop will be held as part of the <a href="https://muc2026.mensch-und-computer.de" target="_blank" style="text-decoration:underline;">Mensch & Computer 2026 (MuC'26)</a> conference in Duisburg, Germany.
 
 Planned date for the workshop is August 30th, 2026 (Sunday afternoon).
 
