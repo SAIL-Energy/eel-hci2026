@@ -81,7 +81,7 @@ We aim for a half-day workshop (approximately 180 minutes) with the following pl
 
 <span id="contact"/>
 ## Contact Information
-Feel free to contact the organizing team: <a href="mailto:eel-hci2026@eddie.energy" style="text-decoration:underline;">eel-hci2026@eddie.energy</a>
+Feel free to contact the organizing team: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#109;&#97;&#114;&#99;&#46;&#107;&#117;&#114;&#122;&#64;&#102;&#104;&#45;&#111;&#111;&#101;&#46;&#97;&#116;" style="text-decoration:underline;">marc.kurz&#64;fh-ooe.at</a>
 
 <span class="w3-small">
 [Imprint](imprint.html)
