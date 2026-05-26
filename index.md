@@ -40,6 +40,10 @@ All deadlines are AoE.
 ## Submission
 We invite submissions of position papers from authors with diverse backgrounds. All submissions must be anonymized and follow the <a href="https://sigchi.org/resources/guides-for-authors/accessibility" target="_blank" style="text-decoration:underline;">SIGCHI Accessibility Guide for Authors</a>. All submissions will be reviewed by two independent reviewers (double blind review).
 
+Please submit your paper via ConfTool: <a href="https://www.conftool.pro/muc2026/index.php?page=submissions#new" target="_blank" style="text-decoration:underline;">https://www.conftool.pro/muc2026/index.php?page=submissions#new</a>
+
+When submitting, please select the track: **"MCI-WS104: Third International Workshop on Empowering Energy Literacy - HCI Strategies for Accessible Data Engagement (EEL-HCI2026)"**.
+
 <span id="program-venue" />
 ## Program & Venue
 The workshop will be held as part of the <a href="https://muc2026.mensch-und-computer.de" target="_blank" style="text-decoration:underline;">Mensch & Computer 2026 (MuC'26)</a> conference in Duisburg, Germany.

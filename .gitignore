@@ -1,2 +1,9 @@
 _site/
 *.pdf
+.bundle/
+vendor/
+Gemfile
+Gemfile.lock
+_plugins/
+.jekyll-cache/
+.jekyll-metadata
