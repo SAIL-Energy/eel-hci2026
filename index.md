@@ -29,7 +29,7 @@ Participants will engage in interactive sessions, share research findings, and c
 <span id="deadlines"/>
 ## Important Dates
 * Publication of CfP on Workshop Website: **April 1st, 2026**
-* Submission Deadline for Workshop Papers: **June 3rd, 2026**
+* Submission Deadline for Workshop Papers: ~~June 3rd, 2026~~ **June 10th, 2026**
 * Notifications: **July 1st, 2026**
 * Camera-ready Deadline: **July 22nd, 2026** (ultimate deadline for inclusion in proceedings)
 * Workshop: **August 30th, 2026** (Sunday afternoon)
