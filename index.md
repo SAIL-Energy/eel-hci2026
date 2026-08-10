@@ -32,7 +32,7 @@ Participants will engage in interactive sessions, share research findings, and c
 * Submission Deadline for Workshop Papers: ~~June 3rd, 2026~~ **June 10th, 2026**
 * Notifications: **July 1st, 2026**
 * Camera-ready Deadline: **July 22nd, 2026** (ultimate deadline for inclusion in proceedings)
-* Workshop: **August 30th, 2026** (Sunday afternoon)
+* Workshop: **August 30th, 2026**, 2:00 pm – 5:30 pm CEST (Sunday afternoon)
 
 All deadlines are AoE.
 
@@ -48,17 +48,39 @@ When submitting, please select the track: **"MCI-WS104: Third International Work
 ## Program & Venue
 The workshop will be held as part of the <a href="https://muc2026.mensch-und-computer.de" target="_blank" style="text-decoration:underline;">Mensch & Computer 2026 (MuC'26)</a> conference in Duisburg, Germany.
 
-Planned date for the workshop is August 30th, 2026 (Sunday afternoon).
+**Date:** Sunday, August 30th, 2026, 2:00 pm – 5:30 pm CEST<br>
+**Room:** LK0053 – Seminar Room (Building LK), see the <a href="https://muc2026.mensch-und-computer.de/participation/location-maps/" target="_blank" style="text-decoration:underline;">MuC'26 location maps</a>
 
-We aim for a half-day workshop (approximately 180 minutes) with the following planned format:
+Each paper is allocated a 30-minute slot (20 min presentation, 10 min Q&A).
 
 | Time    | Topic |
 | -------- | ------- |
-| tbd  | Welcome and Introduction (15 min)    |
-| tbd | Position Paper Presentations with Q&A (75 min)     |
-| tbd    | Break (15 min)    |
-| tbd    | Interactive Group Discussion and Clustering of Positions (45 min)    |
-| tbd    | Conclusion, Synthesis of Findings, and Next Steps (30 min)    |
+| 2:00 pm – 2:15 pm | Welcome and Introduction (Marc Kurz) |
+| 2:15 pm – 2:45 pm | Keynote: *From Data Access to Energy Literacy: Lessons from EDDIE and INSIEME* (Marc Kurz) |
+| 2:45 pm – 3:15 pm | **Paper 1** – Making Flexibility Legible: Energy Data Literacy for Decentralized Energy Systems |
+| 3:15 pm – 3:45 pm | **Paper 2** – Enabling Security, Data Sovereignty, Trust and Transparency in Energy Data Sharing Infrastructures |
+| 3:45 pm – 4:00 pm | Break |
+| 4:00 pm – 4:30 pm | **Paper 3** – Developing a User-Centered Business Customer Energy Portal |
+| 4:30 pm – 5:00 pm | **Paper 4** – Design and Evaluation of an Energy-Mix-Aware Dashboard for Carbon-Aware Household Electricity Consumption |
+| 5:00 pm – 5:30 pm | Interactive Group Discussion, Synthesis of Findings, and Next Steps |
+
+### Keynote
+
+**From Data Access to Energy Literacy: Lessons from EDDIE and INSIEME** (Marc Kurz)
+
+The European energy system is becoming markedly more complex: decentralized generation, flexibility markets, dynamic tariffs, and a growing number of actors on both sides of the meter. Projects such as EDDIE and INSIEME are building the infrastructure that makes energy data accessible across borders and stakeholders — yet access alone does not create understanding. This keynote sets the stage for the workshop by contrasting what the data infrastructure now makes possible with what citizens, businesses, and operators are actually able to interpret and act upon.
+
+<span id="papers" />
+## Accepted Papers
+
+* **Making Flexibility Legible: Energy Data Literacy for Decentralized Energy Systems**<br>
+  Peter Fröhlich, Alexander Mirnig, Josef Walch, Christoph Schmidl
+* **Enabling Security, Data Sovereignty, Trust and Transparency in Energy Data Sharing Infrastructures**<br>
+  Aya Mohamed, Benjamin Ellmer, Oliver Hödl, Marc Kurz
+* **Developing a User-Centered Business Customer Energy Portal**<br>
+  Lydia Penkert, Lining Bao
+* **Design and Evaluation of an Energy-Mix-Aware Dashboard for Carbon-Aware Household Electricity Consumption**<br>
+  Leo Lobis, Nikolas Zechner, Florian Güldenpfennig, Oliver Hödl
 
 <span id="team"/>
 ## Organizers
