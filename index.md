@@ -56,10 +56,10 @@ Each paper is allocated a 30-minute slot (20 min presentation, 10 min Q&A).
 | Time    | Topic |
 | -------- | ------- |
 | 2:00 pm – 2:15 pm | Welcome and Introduction (Marc Kurz) |
-| 2:15 pm – 2:45 pm | Keynote: *From Data Access to Energy Literacy: Lessons from EDDIE and INSIEME* (Marc Kurz) |
-| 2:45 pm – 3:15 pm | **Paper 1** – Making Flexibility Legible: Energy Data Literacy for Decentralized Energy Systems |
-| 3:15 pm – 3:45 pm | **Paper 2** – Enabling Security, Data Sovereignty, Trust and Transparency in Energy Data Sharing Infrastructures |
-| 3:45 pm – 4:00 pm | Break |
+| 2:15 pm – 2:30 pm | Keynote: *From Data Access to Energy Literacy: Lessons from EDDIE and INSIEME* (Marc Kurz) |
+| 2:30 pm – 3:00 pm | **Paper 1** – Making Flexibility Legible: Energy Data Literacy for Decentralized Energy Systems |
+| 3:00 pm – 3:30 pm | **Paper 2** – Enabling Security, Data Sovereignty, Trust and Transparency in Energy Data Sharing Infrastructures |
+| 3:30 pm – 4:00 pm | Coffee Break (joint conference break) |
 | 4:00 pm – 4:30 pm | **Paper 3** – Developing a User-Centered Business Customer Energy Portal |
 | 4:30 pm – 5:00 pm | **Paper 4** – Design and Evaluation of an Energy-Mix-Aware Dashboard for Carbon-Aware Household Electricity Consumption |
 | 5:00 pm – 5:30 pm | Interactive Group Discussion, Synthesis of Findings, and Next Steps |
